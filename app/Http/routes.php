@@ -18,7 +18,5 @@ Route::get('/', [
 
 Route::resource('tasks', 'TasksController');
 
-Route::resource('tasks', 'TasksController');
-
 // Part 1 : https://www.sitepoint.com/bootstrapping-laravel-crud-project/
 // Part 2 : https://www.sitepoint.com/crud-create-read-update-delete-laravel-app/
